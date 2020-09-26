@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alice Doucet Beaupré</title>
+    <link>https://alicedb2.github.io/author/alice-doucet-beaupre/</link>
+      <atom:link href="https://alicedb2.github.io/author/alice-doucet-beaupre/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alice Doucet Beaupré</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alicedb2.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Alice Doucet Beaupré</title>
+      <link>https://alicedb2.github.io/author/alice-doucet-beaupre/</link>
+    </image>
+    
+    <item>
+      <title>Widespread bursts of diversification in microbial phylogenies</title>
+      <link>https://alicedb2.github.io/publication/widespread_bursts/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://alicedb2.github.io/publication/widespread_bursts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entanglement and Criticality in Quantum Impurity Systems</title>
+      <link>https://alicedb2.github.io/publication/entanglement_criticality/</link>
+      <pubDate>Mon, 17 Sep 2007 00:00:00 +0000</pubDate>
+      <guid>https://alicedb2.github.io/publication/entanglement_criticality/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
