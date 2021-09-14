@@ -7,7 +7,7 @@
     <description>Dirichlet process</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://alicedb2.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://alicedb2.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Dirichlet process</title>
       <link>https://alicedb2.github.io/tag/dirichlet-process/</link>
     </image>
@@ -40,20 +40,109 @@
 
 
 
-&lt;figure id=&#34;figure-putative-microbial-units&#34;&gt;
+&lt;figure id=&#34;figure-hierarchical-decomposition-of-tara-ocean-dataset-using-the-plnhdp&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://alicedb2.github.io/project/unsupervisedlearning/microbialunits_hud39106512cb547b1e4a4eab1a4e88977_761406_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Putative microbial units&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://alicedb2.github.io/project/unsupervisedlearning/plnhdp_tara_huf7cc6a5d7d3e6ccea4e0f1f0c3a23f33_1312308_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Hierarchical decomposition of TARA Ocean dataset using the plnHDP&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://alicedb2.github.io/project/unsupervisedlearning/microbialunits_hud39106512cb547b1e4a4eab1a4e88977_761406_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2472&#34; height=&#34;2472&#34;&gt;
+  &lt;img data-src=&#34;https://alicedb2.github.io/project/unsupervisedlearning/plnhdp_tara_huf7cc6a5d7d3e6ccea4e0f1f0c3a23f33_1312308_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2864&#34; height=&#34;1614&#34;&gt;
 &lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Putative microbial units
+    Hierarchical decomposition of TARA Ocean dataset using the plnHDP
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In this project I am interested in extracting organizing the entirety of the heterogeneity of responses across samples and clades along a phylogeny present in traditional 16S dataset. By responses we mean the difference in relative abundance between sister clades.&lt;/p&gt;
+&lt;p&gt;Without any metadata, namely any prior information on factors like temperature, salinity, or other variables along an environmental gradient, the generative model, called a path-limited nested hierarchical Dirichlet process (plnHDP), is able to reconstructed and organize samples and clades along a hierarchical representation of clusters and sub-clusters of responses. This reconstruction of the whole heterogeneity of responses is another way to say that we discover the structure of all confounding factors present in the dataset.&lt;/p&gt;
+&lt;p&gt;This analysis takes inspiration from the field of computational linguistics, namely corpus analysis and topic modeling.&lt;/p&gt;
+&lt;p&gt;In the figure above and using the TARA Ocean expedition dataset, we see how the model naturally recovers the known partition of microbial communities along ocean depth, and discovers a putative novel type of microbial community present in the Scotia see and on the coast of South Africa.&lt;/p&gt;
+&lt;p&gt;This analysis naturally leads to the enumeration of novel microbial units which can be thought as a coarse-grain alternative to OTUs or ESVs. Those units are any set of clades which spans the set of sub-clusters in the hierarchical tree. One such set of clades is shown below. Those alternative microbial units serve to simplify downstream correlation and ordination analysis in a way that goes beyond typical taxon-base analyses.&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-hierarchical-decomposition-of-a-zebra-fish-dataset-of-gut-microbiome-under-different-zinc-diets&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://alicedb2.github.io/project/unsupervisedlearning/plnhdp_zebra_huf7cc6a5d7d3e6ccea4e0f1f0c3a23f33_981528_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Hierarchical decomposition of a Zebra fish dataset of gut microbiome under different zinc diets&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://alicedb2.github.io/project/unsupervisedlearning/plnhdp_zebra_huf7cc6a5d7d3e6ccea4e0f1f0c3a23f33_981528_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2864&#34; height=&#34;1614&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Hierarchical decomposition of a Zebra fish dataset of gut microbiome under different zinc diets
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-putative-microbial-units-in-a-dataset-of-zebrafish-guts-under-different-zinc-diets&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://alicedb2.github.io/project/unsupervisedlearning/microbialunits_zebra_hud39106512cb547b1e4a4eab1a4e88977_761406_2000x2000_fit_q100_lanczos.jpg&#34; data-caption=&#34;Putative microbial units in a dataset of Zebrafish guts under different zinc diets&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://alicedb2.github.io/project/unsupervisedlearning/microbialunits_zebra_hud39106512cb547b1e4a4eab1a4e88977_761406_2000x2000_fit_q100_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2472&#34; height=&#34;2472&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Putative microbial units in a dataset of Zebrafish guts under different zinc diets
   &lt;/figcaption&gt;
 
 
