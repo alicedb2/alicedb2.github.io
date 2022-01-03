@@ -5,7 +5,7 @@
     <link>https://alicedb2.github.io/tag/unsupervised-learning/</link>
       <atom:link href="https://alicedb2.github.io/tag/unsupervised-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Unsupervised learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alicedb2.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Unsupervised learning</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>Diversification Dynamics and Unsupervised Learning of Microbial Units in the Earth Microbiome</title>
-      <link>https://alicedb2.github.io/publication/thesis/</link>
-      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://alicedb2.github.io/publication/thesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Unsupervised learning of microbial units</title>
       <link>https://alicedb2.github.io/project/unsupervisedlearning/</link>
-      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://alicedb2.github.io/project/unsupervisedlearning/</guid>
       <description>
 
@@ -48,10 +40,10 @@
 
 
 
-&lt;figure id=&#34;figure-hierarchical-decomposition-of-tara-ocean-dataset-using-the-plnhdp&#34;&gt;
+&lt;figure id=&#34;figure-hierarchical-decomposition-of-tara-ocean-dataset-using-the-plnhdp-shown-in-green-the-srf-samples-in-blue-the-dcm-samples-in-orange-the-mes-samples-and-in-brown-the-mix-samples-there-are-two-other-types-of-samples-namely-those-shown-in-pink-which-represents-mes-samples-at-the-marine-oxygen-minimum-zone-and-in-purple-a-dcm-sample-at-the-marine-oxygen-minimum-zone-six-clusters-are-shows-three-of-them-named-after-their-main-depth-constituents-srf-dcm-mes-and-three-of-them-after-their-location-ch-for-the-coast-of-chile-so-for-the-south-ocean-and-arswm-for-the-arabian-sea-and-two-stations-far-off-the-south-west-coast-of-mexico&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://alicedb2.github.io/project/unsupervisedlearning/plnhdp_tara_hu7080ca03f6b95e9f0ed3be5068d2a0b4_1069038_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Hierarchical decomposition of TARA Ocean dataset using the plnHDP&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://alicedb2.github.io/project/unsupervisedlearning/plnhdp_tara_hu7080ca03f6b95e9f0ed3be5068d2a0b4_1069038_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Hierarchical decomposition of TARA Ocean dataset using the plnHDP. Shown in green the SRF samples, in blue the DCM samples, in orange the MES samples, and in brown the MIX samples. There are two other types of samples, namely those shown in pink, which represents MES samples at the marine oxygen minimum zone, and in purple a DCM sample at the marine oxygen minimum zone. Six clusters are shows, three of them named after their main depth constituents (SRF, DCM, MES), and three of them after their location, CH for the coast of Chile, SO for the South Ocean, and AR/SWM for the Arabian sea and two stations far off the South-West coast of Mexico.&#34;&gt;
 
 
   &lt;img data-src=&#34;https://alicedb2.github.io/project/unsupervisedlearning/plnhdp_tara_hu7080ca03f6b95e9f0ed3be5068d2a0b4_1069038_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;4022&#34; height=&#34;3172&#34;&gt;
@@ -61,7 +53,7 @@
   
   
   &lt;figcaption&gt;
-    Hierarchical decomposition of TARA Ocean dataset using the plnHDP
+    Hierarchical decomposition of TARA Ocean dataset using the plnHDP. Shown in green the SRF samples, in blue the DCM samples, in orange the MES samples, and in brown the MIX samples. There are two other types of samples, namely those shown in pink, which represents MES samples at the marine oxygen minimum zone, and in purple a DCM sample at the marine oxygen minimum zone. Six clusters are shows, three of them named after their main depth constituents (SRF, DCM, MES), and three of them after their location, CH for the coast of Chile, SO for the South Ocean, and AR/SWM for the Arabian sea and two stations far off the South-West coast of Mexico.
   &lt;/figcaption&gt;
 
 
@@ -157,6 +149,14 @@
 &lt;/figure&gt;
 
 </description>
+    </item>
+    
+    <item>
+      <title>Diversification Dynamics and Unsupervised Learning of Microbial Units in the Earth Microbiome</title>
+      <link>https://alicedb2.github.io/publication/thesis/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://alicedb2.github.io/publication/thesis/</guid>
+      <description></description>
     </item>
     
   </channel>
