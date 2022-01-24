@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Entanglement entropy | Academic</title>
-    <link>https://academic-demo.netlify.app/tag/entanglement-entropy/</link>
-      <atom:link href="https://academic-demo.netlify.app/tag/entanglement-entropy/index.xml" rel="self" type="application/rss+xml" />
+    <title>Entanglement entropy | Alice Doucet Beaupré</title>
+    <link>https://alicedb2.github.io/tag/entanglement-entropy/</link>
+      <atom:link href="https://alicedb2.github.io/tag/entanglement-entropy/index.xml" rel="self" type="application/rss+xml" />
     <description>Entanglement entropy</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Sep 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://alicedb2.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Entanglement entropy</title>
-      <link>https://academic-demo.netlify.app/tag/entanglement-entropy/</link>
+      <link>https://alicedb2.github.io/tag/entanglement-entropy/</link>
     </image>
     
     <item>
       <title>Entanglement and Criticality in Quantum Impurity Systems</title>
-      <link>https://academic-demo.netlify.app/publication/entanglement_criticality/</link>
+      <link>https://alicedb2.github.io/publication/entanglement_criticality/</link>
       <pubDate>Mon, 17 Sep 2007 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/entanglement_criticality/</guid>
+      <guid>https://alicedb2.github.io/publication/entanglement_criticality/</guid>
       <description></description>
     </item>
     

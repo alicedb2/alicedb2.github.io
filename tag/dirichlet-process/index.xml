@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dirichlet process | Academic</title>
-    <link>https://academic-demo.netlify.app/tag/dirichlet-process/</link>
-      <atom:link href="https://academic-demo.netlify.app/tag/dirichlet-process/index.xml" rel="self" type="application/rss+xml" />
+    <title>Dirichlet process | Alice Doucet Beaupré</title>
+    <link>https://alicedb2.github.io/tag/dirichlet-process/</link>
+      <atom:link href="https://alicedb2.github.io/tag/dirichlet-process/index.xml" rel="self" type="application/rss+xml" />
     <description>Dirichlet process</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://alicedb2.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Dirichlet process</title>
-      <link>https://academic-demo.netlify.app/tag/dirichlet-process/</link>
+      <link>https://alicedb2.github.io/tag/dirichlet-process/</link>
     </image>
     
     <item>
       <title>Unsupervised learning of microbial units</title>
-      <link>https://academic-demo.netlify.app/project/unsupervisedlearning/</link>
+      <link>https://alicedb2.github.io/project/unsupervisedlearning/</link>
       <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/unsupervisedlearning/</guid>
+      <guid>https://alicedb2.github.io/project/unsupervisedlearning/</guid>
       <description>
 
 
@@ -37,7 +37,7 @@
                /project/unsupervisedlearning/plnhdp_tara_hu7080ca03f6b95e9f0ed3be5068d2a0b4_1069038_570f9fa94bbabc4cf04a58705b72f2b7.webp 400w,
                /project/unsupervisedlearning/plnhdp_tara_hu7080ca03f6b95e9f0ed3be5068d2a0b4_1069038_fa8c60f2061bd9379e6f55c67e943347.webp 760w,
                /project/unsupervisedlearning/plnhdp_tara_hu7080ca03f6b95e9f0ed3be5068d2a0b4_1069038_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://academic-demo.netlify.app/project/unsupervisedlearning/plnhdp_tara_hu7080ca03f6b95e9f0ed3be5068d2a0b4_1069038_570f9fa94bbabc4cf04a58705b72f2b7.webp&#34;
+               src=&#34;https://alicedb2.github.io/project/unsupervisedlearning/plnhdp_tara_hu7080ca03f6b95e9f0ed3be5068d2a0b4_1069038_570f9fa94bbabc4cf04a58705b72f2b7.webp&#34;
                width=&#34;760&#34;
                height=&#34;599&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -69,7 +69,7 @@
                /project/unsupervisedlearning/plnhdp_zebra_hue49981f9efae02e6d7ecce3634842f43_1144357_106670ffd202234dcedb186af53c2975.webp 400w,
                /project/unsupervisedlearning/plnhdp_zebra_hue49981f9efae02e6d7ecce3634842f43_1144357_7b3979fdb2c1929cfc9e3db7ae0f4f1d.webp 760w,
                /project/unsupervisedlearning/plnhdp_zebra_hue49981f9efae02e6d7ecce3634842f43_1144357_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://academic-demo.netlify.app/project/unsupervisedlearning/plnhdp_zebra_hue49981f9efae02e6d7ecce3634842f43_1144357_106670ffd202234dcedb186af53c2975.webp&#34;
+               src=&#34;https://alicedb2.github.io/project/unsupervisedlearning/plnhdp_zebra_hue49981f9efae02e6d7ecce3634842f43_1144357_106670ffd202234dcedb186af53c2975.webp&#34;
                width=&#34;760&#34;
                height=&#34;698&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -96,7 +96,7 @@
                /project/unsupervisedlearning/microbialunits_zebra_hu50b7904e3b6c912a63045eaaa5c6b221_909651_567c75fffef1c54f9ee0cf3604af6e47.webp 400w,
                /project/unsupervisedlearning/microbialunits_zebra_hu50b7904e3b6c912a63045eaaa5c6b221_909651_e7b7d1f02763e75e666202f06958f750.webp 760w,
                /project/unsupervisedlearning/microbialunits_zebra_hu50b7904e3b6c912a63045eaaa5c6b221_909651_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://academic-demo.netlify.app/project/unsupervisedlearning/microbialunits_zebra_hu50b7904e3b6c912a63045eaaa5c6b221_909651_567c75fffef1c54f9ee0cf3604af6e47.webp&#34;
+               src=&#34;https://alicedb2.github.io/project/unsupervisedlearning/microbialunits_zebra_hu50b7904e3b6c912a63045eaaa5c6b221_909651_567c75fffef1c54f9ee0cf3604af6e47.webp&#34;
                width=&#34;760&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -108,9 +108,9 @@
     
     <item>
       <title>Diversification Dynamics and Unsupervised Learning of Microbial Units in the Earth Microbiome</title>
-      <link>https://academic-demo.netlify.app/publication/thesis/</link>
+      <link>https://alicedb2.github.io/publication/thesis/</link>
       <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/thesis/</guid>
+      <guid>https://alicedb2.github.io/publication/thesis/</guid>
       <description></description>
     </item>
     

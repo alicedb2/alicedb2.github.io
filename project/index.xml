@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Academic</title>
-    <link>https://academic-demo.netlify.app/project/</link>
-      <atom:link href="https://academic-demo.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | Alice Doucet Beaupré</title>
+    <link>https://alicedb2.github.io/project/</link>
+      <atom:link href="https://alicedb2.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://alicedb2.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://academic-demo.netlify.app/project/</link>
+      <link>https://alicedb2.github.io/project/</link>
     </image>
     
     <item>
       <title>Unsupervised learning of microbial units</title>
-      <link>https://academic-demo.netlify.app/project/unsupervisedlearning/</link>
+      <link>https://alicedb2.github.io/project/unsupervisedlearning/</link>
       <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/unsupervisedlearning/</guid>
+      <guid>https://alicedb2.github.io/project/unsupervisedlearning/</guid>
       <description>
 
 
@@ -37,7 +37,7 @@
                /project/unsupervisedlearning/plnhdp_tara_hu7080ca03f6b95e9f0ed3be5068d2a0b4_1069038_570f9fa94bbabc4cf04a58705b72f2b7.webp 400w,
                /project/unsupervisedlearning/plnhdp_tara_hu7080ca03f6b95e9f0ed3be5068d2a0b4_1069038_fa8c60f2061bd9379e6f55c67e943347.webp 760w,
                /project/unsupervisedlearning/plnhdp_tara_hu7080ca03f6b95e9f0ed3be5068d2a0b4_1069038_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://academic-demo.netlify.app/project/unsupervisedlearning/plnhdp_tara_hu7080ca03f6b95e9f0ed3be5068d2a0b4_1069038_570f9fa94bbabc4cf04a58705b72f2b7.webp&#34;
+               src=&#34;https://alicedb2.github.io/project/unsupervisedlearning/plnhdp_tara_hu7080ca03f6b95e9f0ed3be5068d2a0b4_1069038_570f9fa94bbabc4cf04a58705b72f2b7.webp&#34;
                width=&#34;760&#34;
                height=&#34;599&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -69,7 +69,7 @@
                /project/unsupervisedlearning/plnhdp_zebra_hue49981f9efae02e6d7ecce3634842f43_1144357_106670ffd202234dcedb186af53c2975.webp 400w,
                /project/unsupervisedlearning/plnhdp_zebra_hue49981f9efae02e6d7ecce3634842f43_1144357_7b3979fdb2c1929cfc9e3db7ae0f4f1d.webp 760w,
                /project/unsupervisedlearning/plnhdp_zebra_hue49981f9efae02e6d7ecce3634842f43_1144357_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://academic-demo.netlify.app/project/unsupervisedlearning/plnhdp_zebra_hue49981f9efae02e6d7ecce3634842f43_1144357_106670ffd202234dcedb186af53c2975.webp&#34;
+               src=&#34;https://alicedb2.github.io/project/unsupervisedlearning/plnhdp_zebra_hue49981f9efae02e6d7ecce3634842f43_1144357_106670ffd202234dcedb186af53c2975.webp&#34;
                width=&#34;760&#34;
                height=&#34;698&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -96,7 +96,7 @@
                /project/unsupervisedlearning/microbialunits_zebra_hu50b7904e3b6c912a63045eaaa5c6b221_909651_567c75fffef1c54f9ee0cf3604af6e47.webp 400w,
                /project/unsupervisedlearning/microbialunits_zebra_hu50b7904e3b6c912a63045eaaa5c6b221_909651_e7b7d1f02763e75e666202f06958f750.webp 760w,
                /project/unsupervisedlearning/microbialunits_zebra_hu50b7904e3b6c912a63045eaaa5c6b221_909651_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://academic-demo.netlify.app/project/unsupervisedlearning/microbialunits_zebra_hu50b7904e3b6c912a63045eaaa5c6b221_909651_567c75fffef1c54f9ee0cf3604af6e47.webp&#34;
+               src=&#34;https://alicedb2.github.io/project/unsupervisedlearning/microbialunits_zebra_hu50b7904e3b6c912a63045eaaa5c6b221_909651_567c75fffef1c54f9ee0cf3604af6e47.webp&#34;
                width=&#34;760&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -108,9 +108,9 @@
     
     <item>
       <title>Inference of tree-structured microbial interactions</title>
-      <link>https://academic-demo.netlify.app/project/microbialinteractions/</link>
+      <link>https://alicedb2.github.io/project/microbialinteractions/</link>
       <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/microbialinteractions/</guid>
+      <guid>https://alicedb2.github.io/project/microbialinteractions/</guid>
       <description>&lt;p&gt;In this project we explore the possibility of inferring full interaction matrices within a community (in our case microbial) using only O(1) community samples. This dramatic reduction in the size of the required dataset is made possible using ecologically and biologically justified assumptions. On one hand we assume that the shape of the interaction matrix is tree-structured, namely that it aligns itself with the underlying phylogeny between the species of the community. On the other hand we assume that the community is forever embedded in a stochastic environment which constantly perturbs it at random intervals. This latter assumption thus that the community is never observed at equilibrium.&lt;/p&gt;
 &lt;p&gt;The two figures below are visual representation of random asymmetric tree-structured interaction matrices following two different scenario for the way interactions have evolved through time. The first one assumes interaction strengths are dominated by the original innovation or nature of the geological event that led to a speciation event. The second one assumes that interaction strengths are sums of accumulations of evolutionary differences along the paths in the phylogeny.&lt;/p&gt;
 
@@ -133,7 +133,7 @@
                /project/microbialinteractions/nsim_hu0555d76e828111b72df14dfc199e178b_30362_5ee0ca10c70b2d7455b0d57652d40d33.webp 400w,
                /project/microbialinteractions/nsim_hu0555d76e828111b72df14dfc199e178b_30362_e57580ada36c904b67ee391a72824460.webp 760w,
                /project/microbialinteractions/nsim_hu0555d76e828111b72df14dfc199e178b_30362_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://academic-demo.netlify.app/project/microbialinteractions/nsim_hu0555d76e828111b72df14dfc199e178b_30362_5ee0ca10c70b2d7455b0d57652d40d33.webp&#34;
+               src=&#34;https://alicedb2.github.io/project/microbialinteractions/nsim_hu0555d76e828111b72df14dfc199e178b_30362_5ee0ca10c70b2d7455b0d57652d40d33.webp&#34;
                width=&#34;760&#34;
                height=&#34;353&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -160,7 +160,7 @@
                /project/microbialinteractions/esim_hu7b0a62dea196f1bb56b3bbefc19285e6_80788_f8285a8233aff5d941988d24b152b9a4.webp 400w,
                /project/microbialinteractions/esim_hu7b0a62dea196f1bb56b3bbefc19285e6_80788_86a6ecf11334b1df6dc8a8ba9b806660.webp 760w,
                /project/microbialinteractions/esim_hu7b0a62dea196f1bb56b3bbefc19285e6_80788_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://academic-demo.netlify.app/project/microbialinteractions/esim_hu7b0a62dea196f1bb56b3bbefc19285e6_80788_f8285a8233aff5d941988d24b152b9a4.webp&#34;
+               src=&#34;https://alicedb2.github.io/project/microbialinteractions/esim_hu7b0a62dea196f1bb56b3bbefc19285e6_80788_f8285a8233aff5d941988d24b152b9a4.webp&#34;
                width=&#34;760&#34;
                height=&#34;353&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -172,9 +172,9 @@
     
     <item>
       <title>Microbial diversification dynamics</title>
-      <link>https://academic-demo.netlify.app/project/diversification/</link>
+      <link>https://alicedb2.github.io/project/diversification/</link>
       <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/diversification/</guid>
+      <guid>https://alicedb2.github.io/project/diversification/</guid>
       <description>&lt;p&gt;I developed a coarse-grained inference framework to infer the tempo, mode, and shape of the global microbial tree of life using a novel diversification model called the birth, death, and heterogeneous innovation model. This approach has three favorable features. First, the model makes an explicit effort to acknowledge and capture empirical features of microbial phylogenies such as their &amp;ldquo;burstiness&amp;rdquo; and the effective lengthening of ancestral lineages due to unobserved extinctions and incomplete sampling. Second, the introduction of the heterogeneous innovation process overcomes the problem of parameter non-identifiability plaguing more traditional speciation-extinction models between the parameters characterizing the sampling fraction and the speciation rate. Third, the coarse-graining step overcomes the unavoidable problem of incompletely resolved phylogenies common to microbial datasets. Using this approach, I identified a previously unknown universality pattern inherent to microbial diversification. This universality manifests itself across a vast range of different microbiome through the appearance of a common exponent, ranging between 1.3 to 1.7, characterizing the tail of the burst size distribution in their phylogenies.&lt;/p&gt;
 &lt;p&gt;
 
@@ -196,7 +196,7 @@
                /project/diversification/bdhmodel_hu5bdbc40f0dcf4cc07dd35229d2bd599d_367665_b65d317966c0726770be2a86a024d97e.webp 400w,
                /project/diversification/bdhmodel_hu5bdbc40f0dcf4cc07dd35229d2bd599d_367665_59bfcdc5d329ece65024366e96bec50a.webp 760w,
                /project/diversification/bdhmodel_hu5bdbc40f0dcf4cc07dd35229d2bd599d_367665_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://academic-demo.netlify.app/project/diversification/bdhmodel_hu5bdbc40f0dcf4cc07dd35229d2bd599d_367665_b65d317966c0726770be2a86a024d97e.webp&#34;
+               src=&#34;https://alicedb2.github.io/project/diversification/bdhmodel_hu5bdbc40f0dcf4cc07dd35229d2bd599d_367665_b65d317966c0726770be2a86a024d97e.webp&#34;
                width=&#34;760&#34;
                height=&#34;499&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -223,7 +223,7 @@
                /project/diversification/coarse-graining_hu06c59a5819d5d69709700a4c4e999656_156219_0bdb2009df537f73d101e3d3109b308b.webp 400w,
                /project/diversification/coarse-graining_hu06c59a5819d5d69709700a4c4e999656_156219_b87cb374c6e6fe545ced85e73a3549d9.webp 760w,
                /project/diversification/coarse-graining_hu06c59a5819d5d69709700a4c4e999656_156219_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://academic-demo.netlify.app/project/diversification/coarse-graining_hu06c59a5819d5d69709700a4c4e999656_156219_0bdb2009df537f73d101e3d3109b308b.webp&#34;
+               src=&#34;https://alicedb2.github.io/project/diversification/coarse-graining_hu06c59a5819d5d69709700a4c4e999656_156219_0bdb2009df537f73d101e3d3109b308b.webp&#34;
                width=&#34;593&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
