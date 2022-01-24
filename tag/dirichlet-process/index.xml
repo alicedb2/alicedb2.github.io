@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dirichlet process | Academic</title>
+    <link>https://academic-demo.netlify.app/tag/dirichlet-process/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/dirichlet-process/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dirichlet process</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Dirichlet process</title>
+      <link>https://academic-demo.netlify.app/tag/dirichlet-process/</link>
+    </image>
+    
+    <item>
+      <title>Unsupervised learning of microbial units</title>
+      <link>https://academic-demo.netlify.app/project/unsupervisedlearning/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/unsupervisedlearning/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-hierarchical-decomposition-of-tara-ocean-dataset-using-the-plnhdp-shown-in-green-the-srf-samples-in-blue-the-dcm-samples-in-orange-the-mes-samples-and-in-brown-the-mix-samples-there-are-two-other-types-of-samples-namely-those-shown-in-pink-which-represents-mes-samples-at-the-marine-oxygen-minimum-zone-and-in-purple-a-dcm-sample-at-the-marine-oxygen-minimum-zone-six-clusters-are-shows-three-of-them-named-after-their-main-depth-constituents-srf-dcm-mes-and-three-of-them-after-their-location-ch-for-the-coast-of-chile-so-for-the-south-ocean-and-arswm-for-the-arabian-sea-and-two-stations-far-off-the-south-west-coast-of-mexico&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Hierarchical decomposition of TARA Ocean dataset using the plnHDP. Shown in green the SRF samples, in blue the DCM samples, in orange the MES samples, and in brown the MIX samples. There are two other types of samples, namely those shown in pink, which represents MES samples at the marine oxygen minimum zone, and in purple a DCM sample at the marine oxygen minimum zone. Six clusters are shows, three of them named after their main depth constituents (SRF, DCM, MES), and three of them after their location, CH for the coast of Chile, SO for the South Ocean, and AR/SWM for the Arabian sea and two stations far off the South-West coast of Mexico.&#34; srcset=&#34;
+               /project/unsupervisedlearning/plnhdp_tara_hu7080ca03f6b95e9f0ed3be5068d2a0b4_1069038_570f9fa94bbabc4cf04a58705b72f2b7.webp 400w,
+               /project/unsupervisedlearning/plnhdp_tara_hu7080ca03f6b95e9f0ed3be5068d2a0b4_1069038_fa8c60f2061bd9379e6f55c67e943347.webp 760w,
+               /project/unsupervisedlearning/plnhdp_tara_hu7080ca03f6b95e9f0ed3be5068d2a0b4_1069038_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://academic-demo.netlify.app/project/unsupervisedlearning/plnhdp_tara_hu7080ca03f6b95e9f0ed3be5068d2a0b4_1069038_570f9fa94bbabc4cf04a58705b72f2b7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;599&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Hierarchical decomposition of TARA Ocean dataset using the plnHDP. Shown in green the SRF samples, in blue the DCM samples, in orange the MES samples, and in brown the MIX samples. There are two other types of samples, namely those shown in pink, which represents MES samples at the marine oxygen minimum zone, and in purple a DCM sample at the marine oxygen minimum zone. Six clusters are shows, three of them named after their main depth constituents (SRF, DCM, MES), and three of them after their location, CH for the coast of Chile, SO for the South Ocean, and AR/SWM for the Arabian sea and two stations far off the South-West coast of Mexico.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;In this project I am interested in extracting organizing the entirety of the heterogeneity of responses across samples and clades along a phylogeny present in traditional 16S dataset. By responses we mean the difference in relative abundance between sister clades.&lt;/p&gt;
+&lt;p&gt;Without any metadata, namely any prior information on factors like temperature, salinity, or other variables along an environmental gradient, the generative model, called a path-limited nested hierarchical Dirichlet process (plnHDP), is able to reconstructed and organize samples and clades along a hierarchical representation of clusters and sub-clusters of responses. This reconstruction of the whole heterogeneity of responses is another way to say that we discover the structure of all confounding factors present in the dataset.&lt;/p&gt;
+&lt;p&gt;This analysis takes inspiration from the field of computational linguistics, namely corpus analysis and topic modeling.&lt;/p&gt;
+&lt;p&gt;In the figure above and using the TARA Ocean expedition dataset, we see how the model naturally recovers the known partition of microbial communities along ocean depth, and discovers a putative novel type of microbial community present in the Scotia see and on the coast of South Africa.&lt;/p&gt;
+&lt;p&gt;This analysis naturally leads to the enumeration of novel microbial units which can be thought as a coarse-grain alternative to OTUs or ESVs. Those units are any set of clades which spans the set of sub-clusters in the hierarchical tree. One such set of clades is shown below. Those alternative microbial units serve to simplify downstream correlation and ordination analysis in a way that goes beyond typical taxon-base analyses.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-hierarchical-decomposition-of-a-zebra-fish-dataset-of-gut-microbiome-under-different-zinc-diets&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Hierarchical decomposition of a Zebra fish dataset of gut microbiome under different zinc diets&#34; srcset=&#34;
+               /project/unsupervisedlearning/plnhdp_zebra_hue49981f9efae02e6d7ecce3634842f43_1144357_106670ffd202234dcedb186af53c2975.webp 400w,
+               /project/unsupervisedlearning/plnhdp_zebra_hue49981f9efae02e6d7ecce3634842f43_1144357_7b3979fdb2c1929cfc9e3db7ae0f4f1d.webp 760w,
+               /project/unsupervisedlearning/plnhdp_zebra_hue49981f9efae02e6d7ecce3634842f43_1144357_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://academic-demo.netlify.app/project/unsupervisedlearning/plnhdp_zebra_hue49981f9efae02e6d7ecce3634842f43_1144357_106670ffd202234dcedb186af53c2975.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;698&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Hierarchical decomposition of a Zebra fish dataset of gut microbiome under different zinc diets
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-putative-microbial-units-in-a-dataset-of-zebrafish-guts-under-different-zinc-diets&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Putative microbial units in a dataset of Zebrafish guts under different zinc diets&#34; srcset=&#34;
+               /project/unsupervisedlearning/microbialunits_zebra_hu50b7904e3b6c912a63045eaaa5c6b221_909651_567c75fffef1c54f9ee0cf3604af6e47.webp 400w,
+               /project/unsupervisedlearning/microbialunits_zebra_hu50b7904e3b6c912a63045eaaa5c6b221_909651_e7b7d1f02763e75e666202f06958f750.webp 760w,
+               /project/unsupervisedlearning/microbialunits_zebra_hu50b7904e3b6c912a63045eaaa5c6b221_909651_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://academic-demo.netlify.app/project/unsupervisedlearning/microbialunits_zebra_hu50b7904e3b6c912a63045eaaa5c6b221_909651_567c75fffef1c54f9ee0cf3604af6e47.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Putative microbial units in a dataset of Zebrafish guts under different zinc diets
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diversification Dynamics and Unsupervised Learning of Microbial Units in the Earth Microbiome</title>
+      <link>https://academic-demo.netlify.app/publication/thesis/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
