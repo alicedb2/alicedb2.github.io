@@ -4,10 +4,13 @@ html {
 }
 
 body {
-    color: #222;
-    font-family: 'montserrat', sans-serif;
-    background-color: #FBFBFB;
-    margin: 0;
+  font-family: 'crimson', serif;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #FBFBFB;
+  color: black;
+  margin: 0px;
 }
 
 section {
@@ -191,10 +194,10 @@ footer a {
 }
 
 .gallery-header {
-    text-align: center;
-    margin-top: 8em;
-    margin-bottom: 6.5em;
+  margin-bottom: 0;
 }
+
+
 
 .caption {
   position: relative;
@@ -678,28 +681,5 @@ input:checked + .slider:before {
   section {
     margin-bottom: 0 !important;
   }
-}
-
-
-.gallery-header > h1 {
-    font-size: 2.6vw;
-    text-transform: uppercase;
-    letter-spacing: 3px;
-    margin-bottom: 0;
-}
-
-.gallery-header > h4 {
-    font-size: 1.4vw;
-    color: #444;
-    font-style: italic;
-    font-weight: normal;
-    font-family: 'crimson', serif;
-    margin-top: .5em;
-}
-
-.gallery-header > hr {
-    width: 14%;
-    margin-top: 3.5em;
-    color: #BBB;
 }
 
