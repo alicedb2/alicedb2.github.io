@@ -5,36 +5,12 @@
     <link>https://alicedb2.github.io/author/alice-doucet-beaupre/</link>
       <atom:link href="https://alicedb2.github.io/author/alice-doucet-beaupre/index.xml" rel="self" type="application/rss+xml" />
     <description>Alice Doucet Beaupré</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://alicedb2.github.io/media/icon_hu2c9edcf0c54ea6035f67181def42e844_45130_512x512_fill_lanczos_center_3.png</url>
+      <url>https://alicedb2.github.io/author/alice-doucet-beaupre/avatar_hucbe319264cb7acfd5b9e20685b8d74d4_160871_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Alice Doucet Beaupré</title>
       <link>https://alicedb2.github.io/author/alice-doucet-beaupre/</link>
     </image>
-    
-    <item>
-      <title>Diversification Dynamics and Unsupervised Learning of Microbial Units in the Earth Microbiome</title>
-      <link>https://alicedb2.github.io/publication/thesis/</link>
-      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://alicedb2.github.io/publication/thesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Widespread Bursts of Diversification in Microbial Phylogenies</title>
-      <link>https://alicedb2.github.io/publication/widespread_bursts/</link>
-      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://alicedb2.github.io/publication/widespread_bursts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Entanglement and Criticality in Quantum Impurity Systems</title>
-      <link>https://alicedb2.github.io/publication/entanglement_criticality/</link>
-      <pubDate>Mon, 17 Sep 2007 00:00:00 +0000</pubDate>
-      <guid>https://alicedb2.github.io/publication/entanglement_criticality/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
